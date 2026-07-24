@@ -11,3 +11,4 @@ crewai-tools
 google-generativeai
 python-dotenv
 openpyxl
+pydantic
